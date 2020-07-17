@@ -1,0 +1,53 @@
+/*-----------navbar-------------*/
+a.nav-align{
+    font-family: 'PT Sans', 'Source Sans Pro', sans-serif ;
+    text-align: center;
+    font-size: 2rem;
+	margin: 0 auto;
+}
+
+/*---------------------*/
+
+/*--------------TopCards----------*/
+.section-cards{
+    padding: 2rem;
+    
+}
+
+.dna-card{
+    -webkit-box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
+-moz-box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
+box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
+
+    margin:1rem auto ;
+}
+.dna-card-img{
+   
+}
+/*------------------------*/
+
+/*----------Articlecards----------*/
+/*
+.article-row
+{   padding-top: 2rem ;
+    background-color: gray;
+}
+*/
+.dna-article-wrapper{
+   
+    box-sizing: border-box;
+    padding: 2rem;
+    margin: auto 1rem;
+   -webkit-box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
+-moz-box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
+box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
+
+}
+.dna-article-btn{
+
+}
+.dna-article-container{
+    margin-bottom: 1rem;
+    
+}
+/*--------------------------*/
