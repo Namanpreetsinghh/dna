@@ -1,0 +1,68 @@
+/*-------------navbar----------*/
+a.nav-align{
+    font-family: 'PT Sans', 'Source Sans Pro', sans-serif ;
+    text-align: center;
+    font-size: 2rem;
+	margin: 0 auto;
+}
+/*-----------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------Footer------*/
+
+footer{
+    padding-top: 1.5rem;
+    margin-top: 2.5rem;
+}
+.footer-image{
+    display: block;
+    margin: auto;
+    padding: 15px;
+    
+}
+a.footertext{
+    display: block;
+    margin: auto;
+    line-height: 1;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0.8rem;
+}
+.fa{
+    margin:10px;
+}
+.fa-facebook-square{
+    color: #3b5998
+}
+.fa-instagram{
+    color: #ffffff
+}
+.socialwrapper{
+    margin: auto;
+    
+}
