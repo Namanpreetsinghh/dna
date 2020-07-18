@@ -31,8 +31,16 @@ box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
 .article-row
 {   padding-top: 2rem ;
     background-color: gray;
+    margin:auto;
 }
 */
+.dna-heading{
+    display:block;
+    margin: auto;
+    margin-bottom: .2rem;
+    text-align: center;
+    padding: .5rem;
+}
 .dna-article-wrapper{
    
     box-sizing: border-box;
@@ -51,3 +59,36 @@ box-shadow: 5px 5px 2px -4px rgba(3,20,8,0.77);
     
 }
 /*--------------------------*/
+
+/*-----------Footer---------------*/
+footer{
+    padding-top: 1.5rem;
+    margin-top: 2.5rem;
+}
+.footer-image{
+    display: block;
+    margin: auto;
+    padding: 15px;
+    
+}
+a.footertext{
+    display: block;
+    margin: auto;
+    line-height: 1;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0.8rem;
+}
+.fa{
+    margin:10px;
+}
+.fa-facebook-square{
+    color: #3b5998
+}
+.fa-instagram{
+    color: #ffffff
+}
+.socialwrapper{
+    margin: auto;
+    
+}
